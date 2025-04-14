@@ -1,5 +1,7 @@
 # DisasterMaster
 
+**This webapp was created for the purpose of submission to the Ontario Engineering Competition 2025
+
 The project uses Flask for server hosting, Python as the backend, HTML and JS for the frontend, and spaCy as the NLP model library. To run the project, please make sure you have all those installed. To install spaCy, please use the following commands:
 1. `pip install spacy`
 2. `python -m spacy download en_core_web_sm`
